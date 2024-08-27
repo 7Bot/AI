@@ -62,7 +62,7 @@
 
 | 序号 | 名称    | 内容   |
 |------|--------|-------|
-| 1      | [井字棋](demos/TicTacToe.md)     |          |
-| 2      | [传输带分拣](demos/Sorting.md)     |          |
-| 3      | [手势控制](demos/HandCtrl.md)     |          |
-| 4      | [双臂交互](demos/DualArmHRI.md)     |          |
+| 1      | [井字棋](demos/TicTacToe.md)     | 使用计算机视觉、深度学习及MinMAX算法，实现机械臂井字棋人机智能对弈 |
+| 2      | [传输带分拣](demos/Sorting.md)     | 结合计算机视觉、深度学习以及传输带硬件设备的智能分拣应用 |
+| 3      | [手势控制](demos/HandCtrl.md)     | 使用Mediapipe库实现对机械臂的手势控制 |
+| 4      | [双臂交互](demos/DualArmHRI.md)     | 结合计算机视觉、深度学习、自然语言和LLM的人机交互系统应用   |
