@@ -10,7 +10,6 @@
 
 <img src="docs/images/edu_dev_exps.jpg"  width="100%">
 
-
 7Bot智能应用视频合集视频 [【Youtube】](https://youtu.be/4htib_-zlBI)    [【B站】](https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1)
 
 <!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4htib_-zlBI/0.jpg)](https://www.youtube.com/watch?v=4htib_-zlBI) -->
