@@ -10,9 +10,6 @@
 
 <img src="docs/images/edu_dev_exps.jpg"  width="100%">
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-[![](docs/images/edu_dev_exps.jpg)](https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1)
 
 [7Bot智能应用视频合集](https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1)
 
