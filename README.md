@@ -10,9 +10,8 @@
 
 <img src="docs/images/edu_dev_exps.jpg"  width="100%">
 
-<video src="[7Bot视频](https://www.bilibili.com/video/BV1UU4y1G7TW/?vd_source=b7bafa4380f12b24bdd421cf737fe045)" controls width="99%">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1UU4y1G7TW/?vd_source=b7bafa4380f12b24bdd421cf737fe045" frameborder="0" allowfullscreen></iframe>
+
 
 7Bot机械臂作为通用硬件外设，使用简单易用的二次开发API（应用程序接口），即可非常方便的在计算机、开发板（如英伟达Jetson系列开发板、树莓派、ARM开发板）等等通用平台上进行二次开发。并可无缝结合诸如TensorFlow/Pytorch等深度学习框架、ROS机器人操作系统、OpenCV计算机视觉库等等人工智能及机器人应用工具和资源，进行各类型的人工智能应用开发，以及设计原型的快速搭建。
 
