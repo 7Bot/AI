@@ -1,19 +1,23 @@
-<img src="docs/images/PineconeAI-logo.jpg"  width="180x">   
+<img src="docs/images/PineconeAI-logo.jpg"  width="180x">   <div style="text-align: right; font-weight: bold;">简体中文 / [English](docs/README-en.md)</div>
+
 
 # 7Bot桌面智能机械臂 
-### 简体中文 / [English](docs/README-en.md)
 
-
+<br>
 
 ## 简介
 7Bot桌面智能机械臂是一款由松果智能（PineconeAI）团队开发设计的桌面机械臂，适用于AI应用场景的快速搭建、测试和部署，具有丰富的功能和使用灵活性。在人工智能教育及科研领域为学生、教师、研究人员、企业及开发者提供一站式的解决方案，在全球范围内被广泛使用。
 
 <img src="docs/images/edu_dev_exps.jpg"  width="100%">
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/[[4htib_-zlBI](https://youtu.be/4htib_-zlBI)](https://youtu.be/4htib_-zlBI)/0.jpg)](https://www.youtube.com/watch?v=4htib_-zlBI)
+
 
 [7Bot智能应用视频合集](https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1)
 
 7Bot机械臂作为通用硬件外设，使用简单易用的二次开发API（应用程序接口），即可非常方便的在计算机、开发板（如英伟达Jetson系列开发板、树莓派、ARM开发板）等等通用平台上进行二次开发。并可无缝结合诸如TensorFlow/Pytorch等深度学习框架、ROS机器人操作系统、OpenCV计算机视觉库等等人工智能及机器人应用工具和资源，进行各类型的人工智能应用开发，以及设计原型的快速搭建。
+
+<br>
 
 ## 使用
 7Bot机械臂简单易用的方式，灵活多样的场景搭建，很适合用在人工智能、机器人领域的科普上面，能够让中小学生在不用懂得复杂深奥的理论基础知识前提下，即可轻松的操作、使用和体验机器人及人工智能应用的诸多乐趣，提高对理工科的学习兴趣和启发学生的创新思考能力。当前支持的使用方式有：
@@ -30,20 +34,27 @@
 
 详情请参考[使用说明](docs/usage.md)。
 
+<br>
+
 ## 外设
 7Bot桌面智能机械臂支持多种外设搭配，用于智能应用场景的搭建。
 <img src="docs/images/hardware-peripherals.jpg"  width="100%">
+
+<br>
 
 ## 特性
 7Bot桌面智能机械臂具有以下特性和具体参数：
 <img src="docs/images/tech-spec.jpg"  width="100%">
 
+<br>
 
 ## 文档
 | 序号 | 名称    | 内容  |
 |-----|--------|-------|
 | 1   | [7Bot桌面机械臂使用说明书](docs/7Bot桌面机械臂使用说明书.pdf)     | 机械臂硬件、使用及开发说明   |
 | 2   | [7Bot机械臂编程开发指南(Python版）](docs/7Bot机械臂编程开发指南（Python版）.pdf)     | 机械臂Python API开发使用指南   |
+
+<br>
 
 ## 教程
 
@@ -56,6 +67,7 @@
 | 3   | [WiFi网络通信（基于Socket）](tutorials/TBD)     | 通过Socket通信实现机械臂与电脑的通信，便于AIoT应用搭建   |
 | 4   | [机器人操作系统使用（ROS2）](tutorials/TBD)     | 通过ROS2中的机械臂使用和开发   |
 
+<br>
 
 ## AI应用案例
 
