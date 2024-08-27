@@ -1,7 +1,7 @@
 <img src="docs/images/PineconeAI-logo.jpg"  width="180x">   
 
 # 7Bot桌面智能机械臂 
-### [English](docs/README-en.md)
+### 简体中文 / [English](docs/README-en.md)
 
 
 
@@ -14,6 +14,7 @@
 
 [![](docs/images/edu_dev_exps.jpg)](https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1)
 
+[7Bot智能应用视频合集]("https://player.bilibili.com/player.html?bvid=BV1UU4y1G7TW&page=1)
 
 7Bot机械臂作为通用硬件外设，使用简单易用的二次开发API（应用程序接口），即可非常方便的在计算机、开发板（如英伟达Jetson系列开发板、树莓派、ARM开发板）等等通用平台上进行二次开发。并可无缝结合诸如TensorFlow/Pytorch等深度学习框架、ROS机器人操作系统、OpenCV计算机视觉库等等人工智能及机器人应用工具和资源，进行各类型的人工智能应用开发，以及设计原型的快速搭建。
 
