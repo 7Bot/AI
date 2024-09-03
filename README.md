@@ -52,6 +52,7 @@
 |-----|--------|-------|
 | 1   | [7Bot桌面机械臂使用说明书](docs/7Bot桌面机械臂使用说明书.pdf)     | 机械臂硬件、使用及开发说明   |
 | 2   | [7Bot机械臂编程开发指南(Python版）](docs/7Bot机械臂编程开发指南（Python版）.pdf)     | 机械臂Python API开发使用指南   |
+| 3   | []()     |     |
 
 <br>
 
@@ -65,6 +66,20 @@
 | 2   | [7Bot机械臂运动控制基础](tutorials/7Bot机械臂运动控制基础教程.ipynb)     | 调用Python API，实现机械臂各种功能状态的编程控制   |
 | 3   | [WiFi网络通信（基于Socket）](tutorials/TBD)     | 通过Socket通信实现机械臂与电脑的通信，便于AIoT应用搭建   |
 | 4   | [机器人操作系统使用（ROS2）](tutorials/TBD)     | 通过ROS2中的机械臂使用和开发   |
+| 5   | []()     |     |
+
+<br>
+
+## 基础应用案例
+
+基于Python语言的Jupyter Notebook教程，可快速上手7Bot机械臂各项基础功能应用开发。
+
+| 序号 | 名称    | 内容   |
+|-----|--------|-------|
+| 1   | [轨迹记录及运动复现](demos/轨迹记录及运动复现.md)     |  通过Python API实现机械臂轨迹记录及运动复现   |
+| 2   | [机械臂Avatar](demos/机械臂Avatar.md)     |  通过Python API实现一台机械臂多另一台机械臂的Avatar动作同步控制   |
+| 3   | []()     |     |
+
 
 <br>
 
@@ -76,3 +91,4 @@
 | 2      | [传输带分拣](demos/Sorting.md)     | 结合计算机视觉、深度学习以及传输带硬件设备的智能分拣应用 |
 | 3      | [手势控制](demos/HandCtrl.md)     | 使用Mediapipe库实现对机械臂的手势控制 |
 | 4      | [双臂交互](demos/DualArmHRI.md)     | 结合计算机视觉、深度学习、自然语言和LLM的人机交互系统应用   |
+| 5   | []()     |     |
