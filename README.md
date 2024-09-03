@@ -1,4 +1,4 @@
-<img src="docs/images/PineconeAI-logo.jpg"  width="180x">   <div style="text-align: right; font-weight: bold;">简体中文 / [English](docs/README-en.md)</div>
+ <a href="http://www.pinecone-ai.cn" target="_blank"><img src="docs/images/PineconeAI-logo.jpg" width="180x"></a>  <div style="text-align: right; font-weight: bold;">简体中文 / [English](docs/README-en.md)</div>
 
 
 # 7Bot桌面智能机械臂 
