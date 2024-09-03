@@ -1,0 +1,3 @@
+ultralytics == 8.2.82
+mediapipe == 0.10.11
+pyserial == 3.5
