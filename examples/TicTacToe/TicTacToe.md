@@ -1,3 +1,5 @@
+ <a href="http://www.pinecone-ai.cn" target="_blank"><img src="/docs/images/PineconeAI-logo.jpg" width="180x"></a>  <div style="text-align: right; font-weight: bold;">简体中文 / [English](TicTacToe-en.md)</div>
+
 # TicTacToe
 
 这是一个基于7Bot的TicTacToe人工智能开源应用。   
@@ -27,7 +29,7 @@ pip install -r requirements.txt
 
 
 ```
-python aiGame.py
+python TicTacToe.py
 ```
 
 
