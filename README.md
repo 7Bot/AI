@@ -78,7 +78,8 @@
 |-----|--------|-------|
 | 1   | [轨迹记录及运动复现](demos/轨迹记录及运动复现.md)     |  通过Python API实现机械臂轨迹记录及运动复现   |
 | 2   | [机械臂Avatar](demos/机械臂Avatar.md)     |  通过Python API实现一台机械臂多另一台机械臂的Avatar动作同步控制   |
-| 3   | []()     |     |
+| 3   | [手眼标定](examples/EyeInHandCalibration.md)     | 使用张正友标定法实现机械臂手眼标定   |
+| 4   | [轨迹学习训练](demos/轨迹学习训练.md)     | 通过轨迹学习训练，实现机械臂运动控制   |
 
 
 <br>
@@ -91,4 +92,5 @@
 | 2      | [传输带分拣](examples/Sorting.md)     | 结合计算机视觉、深度学习以及传输带硬件设备的智能分拣应用 |
 | 3      | [手势控制](examples/HandCtrl.md)     | 使用Mediapipe库实现对机械臂的手势控制 |
 | 4      | [双臂交互](examples/DualArmHRI.md)     | 结合计算机视觉、深度学习、自然语言和LLM的人机交互系统应用   |
-| 5      | [手眼标定](examples/EyeInHandCalibration.md)     | 使用张正友标定法实现机械臂手眼标定   |
+| 5      | [小车移动应用]()     | 机械臂装置在移动平台上，[OmniBot小车]()  |
+| 6      | [AGV协同应用]()     | 固定工位取放，AGV搬运，[NanoBot小车]()   |
